@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/super-refine-simulator/static/css/main.31d6cfe0.css",
+    "main.js": "/super-refine-simulator/static/js/main.bdb9b248.js",
+    "index.html": "/super-refine-simulator/index.html",
+    "main.bdb9b248.js.map": "/super-refine-simulator/static/js/main.bdb9b248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bdb9b248.js"
+  ]
+}
