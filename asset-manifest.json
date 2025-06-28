@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/super-refine-simulator/static/css/main.51bb489a.css",
-    "main.js": "/super-refine-simulator/static/js/main.2acf7334.js",
+    "main.js": "/super-refine-simulator/static/js/main.064e749d.js",
     "index.html": "/super-refine-simulator/index.html",
     "main.51bb489a.css.map": "/super-refine-simulator/static/css/main.51bb489a.css.map",
-    "main.2acf7334.js.map": "/super-refine-simulator/static/js/main.2acf7334.js.map"
+    "main.064e749d.js.map": "/super-refine-simulator/static/js/main.064e749d.js.map"
   },
   "entrypoints": [
     "static/css/main.51bb489a.css",
-    "static/js/main.2acf7334.js"
+    "static/js/main.064e749d.js"
   ]
 }
